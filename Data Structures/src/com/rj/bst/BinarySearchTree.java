@@ -2,7 +2,7 @@ package com.rj.bst;
 
 public class BinarySearchTree {
 	
-	Node root;
+	private Node root;
 	
 	public Node insert(int data) {
 		
